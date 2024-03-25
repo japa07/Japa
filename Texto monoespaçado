@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title> teste de texto monoespaçado</title>
+    </head>
+    <body>
+        <PRE>
+            Texto preformatado que preserva espaço em branco
+            </PRE>
+    </body>
+</html>

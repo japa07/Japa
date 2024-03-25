@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>Teste de quebra de linha</title>
+    </head>
+<body>
+    <P> O primeiro parágrafo<BR> Segunda linha</P>
+        <P> Outro parágrafo</P>
+</body>
+</html>
