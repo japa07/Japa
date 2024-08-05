@@ -1,0 +1,22 @@
+<!-- tabela basica - borda -->
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+     <!--
+       body {background-color: beige; font-family: verdana; color: black;
+          font-size: 80%}
+     //-->
+    </style>
+
+  </head>
+
+  <body>
+   <table border="1">
+    <tr>
+     <td>Argentina</td>
+     <td>Uruguai</td>
+    </tr>
+   </table>
+  </body>
+</html>

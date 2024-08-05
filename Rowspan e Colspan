@@ -1,0 +1,68 @@
+<html>
+  <head>
+   <title>Tabelas</title>
+    <style type="text/css">
+    <!--
+     body {background-color: rgb(235, 14, 255); font-family: verdana; color: rgb(74, 10, 104);
+         font-size: 90%}
+      td {font-size: 90%}
+      th {font-size: 120%; color: rgb(255, 38, 255); background-color: rgb(71, 0, 119)}
+    //-->
+   </style>
+  </head>
+ <body>
+  <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+   <tr>
+     <th colspan="3">Demonstrativo de preços</th>
+   </tr>
+   <tr>
+     <td>01</td>
+     <td>TV a cores</td>
+     <td>R$ 304,00</td>
+   </tr>
+   <tr>
+     <td>02</td>
+     <td>Ferro de passar</td>
+     <td>R$ 67,00</td>
+   </tr>
+   <tr>
+     <td>03</td>
+     <td>Ventilador</td>
+     <td>R$ 33,00</td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+</br>
+
+<html>
+ <head>
+  <title>Tabelas</title>
+   <style type="text/css">
+<!--
+body {background-color: rgb(86, 14, 104); font-family: verdana; color: rgb(255, 255, 255);
+font-size: 80%}
+td {font-size: 80%}
+//-->
+   </style>
+ </head>
+    <body>
+     <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+      <tr>
+        <td rowspan="2">Observe esta célula 1</td>
+        <td>Observe esta célula 2</td>
+      </tr>
+      <tr>
+        <td>Observe esta célula 3</td>
+      </tr>
+      <tr>
+        <td rowspan="2">Observe esta célula 4 </td>
+        <td>Observe esta célula 5</td>
+      </tr>
+      <tr>
+        <td>Observe esta célula 6</td>
+      </tr>
+     </table>
+    </body>
+</html>
