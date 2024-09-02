@@ -1,0 +1,36 @@
+<html>
+ <head>
+  <title>Tabelas</title>
+   <style type="text/css">
+   <!--e
+body {background-color:  beige; font-family: verdana; color: white;
+font-size: 80%}
+td {font-size: 80%}
+//-->
+</style>
+</head>
+<body>
+ <table border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+    <colgroup span="2" style="background-color:greenyellow;" align="left" width="180">
+        </colgroup>
+    <colgroup span="2" style="background-color: paleturquoise;" align="left" widh="180">
+       </colgroup>
+    
+   <tr>
+    <td>Forno Katre2000</td>
+     <td>Profissional</td>
+     <td>R$ 2.939,49</td>
+   </tr>
+    <tr>
+     <td>Batedeira Voyager ITE</td>
+     <td>Vigilante</td>
+     <td>R$ 394,47</td>
+   </tr>
+   <tr>
+     <td>Lavadora Bem-Well</td>
+    <td>Prática</td>
+    <td>R$ 596,58</td>
+   </tr>
+  </table>
+ </body>
+</html>
