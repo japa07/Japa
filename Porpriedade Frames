@@ -1,0 +1,32 @@
+<html>
+ <head>
+  <title>Tabelas</title>
+
+  <style type="text/css">
+   <!--
+    body {background-color: rgba(236, 236, 127, 0.904); font-family: verdana; color: rgb(0, 0, 0); font-size: 80%} 
+    td {font-size: 80%}
+   -->
+  </style>
+ </head>
+<body>
+<table frame="border" border="4" cellpadding="4" cellspacing="0"
+bordercolor="red">
+   <tr>
+    <td>Janeiro</td>
+    <td>Fevereiro</td>
+    <td>Março</td>
+   </tr>
+   <tr>
+    <td>Abril</td>
+    <td>Maio</td>
+    <td>Junho</td>
+   </tr>
+   <tr>
+    <td>Julho</td>
+    <td>Agosto</td>
+    <td>Setembro</td>
+   </tr>
+  </table>
+ </body>
+</html>
