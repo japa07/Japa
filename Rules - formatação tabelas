@@ -1,0 +1,56 @@
+<html>
+ <head>
+  <title>Tabelas</title>
+
+   <style type="text/css">
+    <!--
+     body {background-color: rgb(255, 255, 255); font-family: verdana; color: rgb(0, 0, 0);
+        font-size: 80%}
+     td {font-size: 80%}
+     th {font-size: 90%; color: blue}
+    //-->
+   </style>
+
+  </head>
+
+  <!-- rules = groups - exibe linhas horizontais entre as sessões da tabela -->
+
+  <body>
+  <table rules="groups" border="1" cellpadding="3" cellspacing="0" bordercolor="black">
+
+   <thead>
+    <tr>
+     <th colspan="3">Cotação de Salários</th>
+    </tr>
+   </thead>
+
+   <tfoot>
+    <tr>
+     <td colspan="3" align="right">Fonte: Desconhecida</td>
+    </tr>
+   </tfoot>
+
+   <tbody>
+    <tr>
+     <td>01</td>
+     <td>Programador de Computadores</td>
+     <td>R$ 4.394,98</td>
+    </tr>
+
+    <tr>
+     <td>02</td>
+     <td>Desenvolvedor Banco de Dados</td>
+     <td>R$ 3.495,49</td>
+    </tr>
+
+    <tr>
+     <td>03</td>
+     <td>Webmaster Junior</td>
+     <td>R$ 1.600,00</td>
+    </tr>
+
+   </tbody>
+  </table>
+
+ </body>
+</html>
